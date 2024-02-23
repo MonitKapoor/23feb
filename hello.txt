@@ -1,2 +1,3 @@
-first line on main branch
+Line 1 and 2 are moved down on dev1
+first line(now second line) on main branch(modified on dev1)
 second line on main branch before opening dev1 branch
