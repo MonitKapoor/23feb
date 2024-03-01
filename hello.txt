@@ -1,5 +1,9 @@
 Line 1 and 2 are moved down on dev1
 first line(now second line) on main branch(modified on dev1)
 second line on main branch before opening dev1 branch
+dev1
 line 4 added on dev1
 line 5 on dev2, no changes made by dev2 on codebase of dev1(too scared!!)
+
+third line on main branch
+main
